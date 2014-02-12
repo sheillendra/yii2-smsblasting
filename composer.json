@@ -1,0 +1,22 @@
+{
+	"name": "sheillendra/yii2-smsblasting",
+	"description": "SMS Blasting user Yii2 framework",
+	"keywords": ["smsblasting", "sheillendra", "yii2","yii","kannel"],
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sheillendra",
+			"email": "sheillendra@yahoo.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"sheillendra/yii2-theme": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"sheillendra\\smsblasting\\": ""
+		}
+	}
+}
